@@ -86,6 +86,6 @@ O design foi pensado para:
 
 -Experiência consistente entre light e dark mode
 
-📬 Contato
+## 📬 Contato
 
 GitHub: https://github.com/Larisoft01
