@@ -43,14 +43,15 @@ Portfolio/
 └── README.md
 ```
 
-🚀 Como rodar o projeto localmente
-Pré-requisitos
+##🚀 Como rodar o projeto localmente
+#Pré-requisitos
 
 Node.js
 ```
 npm ou yarn
 ```
 #Passo a passo
+
 Clone o repositório
 ```
 git clone https://github.com/Larisoft01/Portfolio.git
