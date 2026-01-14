@@ -43,14 +43,14 @@ Portfolio/
 └── README.md
 ```
 
-##🚀 Como rodar o projeto localmente
-#Pré-requisitos
+## 🚀 Como rodar o projeto localmente
+# Pré-requisitos
 
 Node.js
 ```
 npm ou yarn
 ```
-#Passo a passo
+# Passo a passo
 
 Clone o repositório
 ```
