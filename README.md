@@ -44,13 +44,13 @@ Portfolio/
 ```
 
 ## 🚀 Como rodar o projeto localmente
-# Pré-requisitos
+### Pré-requisitos
 
 Node.js
 ```
 npm ou yarn
 ```
-# Passo a passo
+### Passo a passo
 
 Clone o repositório
 ```
@@ -72,7 +72,7 @@ npm start
 O projeto será executado em:
 📍 http://localhost:3000
 
-🎨 Design & UX
+## 🎨 Design & UX
 
 O design foi pensado para:
 
