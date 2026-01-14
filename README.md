@@ -31,7 +31,7 @@ O projeto foi pensado com foco em **design moderno**, **boa experiência do usu�
 
 ## 📂 Estrutura do Projeto
 
-```text
+```
 Portfolio/
 ├── src/
 │   ├── App.js
@@ -41,3 +41,46 @@ Portfolio/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
+
+🚀 Como rodar o projeto localmente
+Pré-requisitos
+```
+Node.js
+
+npm ou yarn
+
+Passo a passo
+# Clone o repositório
+git clone https://github.com/Larisoft01/Portfolio.git
+
+# Entre na pasta do projeto
+cd Portfolio
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm start
+```
+
+O projeto será executado em:
+📍 http://localhost:3000
+
+🎨 Design & UX
+
+O design foi pensado para:
+
+-Clareza visual
+
+-Leitura confortável
+
+-Contraste adequado para acessibilidade
+
+-Interface moderna e profissional
+
+-Experiência consistente entre light e dark mode
+
+📬 Contato
+
+GitHub: https://github.com/Larisoft01
