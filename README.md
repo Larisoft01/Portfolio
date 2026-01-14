@@ -3,7 +3,7 @@
 Este é o meu **portfolio pessoal desenvolvido em React**, criado para apresentar minhas habilidades, projetos e experiências profissionais na área de tecnologia.
 
 O projeto foi pensado com foco em **design moderno**, **boa experiência do usuário (UX)** e **responsividade**, além de contar com **modo claro e modo escuro**.
-
+Dos templates apresentados, foi utilizado o Template 2 como base para essa criação.
 ---
 
 ## ✨ Funcionalidades
