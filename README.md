@@ -18,25 +18,49 @@ Dos templates apresentados, foi utilizado o Template 2 como base para essa cria�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-- **React**
-- **JavaScript (ES6+)**
-- **HTML5**
-- **CSS3**
-- **Lucide React**
-- **Git & GitHub**
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
 
 ---
+##⚙️ Uso de Hooks (React)
+
+O projeto faz uso real e funcional dos principais hooks do React:
+```
+useState
+```
+Utilizado para controlar estados da aplicação, como:
+
+Tema (dark/light mode)
+
+Menu mobile (aberto/fechado)
+
+Seção ativa da navegação
+```
+useEffect
+```
+Utilizado para lidar com efeitos colaterais:
+
+Aplicação dinâmica da classe dark-mode no body
+
+Monitoramento do evento de scroll para atualização da seção ativa
+
+Esses hooks são usados de forma prática e integrada à experiência do usuário.
 
 ## 📂 Estrutura do Projeto
 
 ```
 Portfolio/
 ├── src/
+│   ├──components/
+│   │     ├── ThemeToggle.jsx
 │   ├── App.js
 │   ├── App.css
-│   └── index.js
+│   └── main.jsx
+│   └── index.css
 ├── public/
 ├── .gitignore
 ├── package.json
@@ -70,7 +94,7 @@ npm start
 ```
 
 O projeto será executado em:
-📍 http://localhost:3000
+📍 http://localhost:5173
 
 ## 🎨 Design & UX
 
