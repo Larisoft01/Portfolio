@@ -50,20 +50,20 @@ Node.js
 ```
 npm ou yarn
 ```
-Passo a passo
-# Clone o repositório
+#Passo a passo
+Clone o repositório
 ```
 git clone https://github.com/Larisoft01/Portfolio.git
 ```
-# Entre na pasta do projeto
+Entre na pasta do projeto
 ```
 cd Portfolio
 ```
-# Instale as dependências
+Instale as dependências
 ```
 npm install
 ```
-# Inicie o projeto
+Inicie o projeto
 ```
 npm start
 ```
